@@ -59,4 +59,4 @@ jobs:
           app-name: 'Daus00'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DF97FC271BE24527B0AB3D11B61041E4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B9647DA50FA4483932B7210FCBCBA26 }}
